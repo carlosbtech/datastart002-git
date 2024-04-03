@@ -1,0 +1,4 @@
+- [X] Criar conta no Github
+- [X] Criar Repositorio
+- [X] Criar chave SSH
+- [X] Subir Notebook no Git
